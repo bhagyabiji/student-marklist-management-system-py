@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Devika",
+        "roll_number": "18",
+        "marks": {
+            "English": 98.0,
+            "Mathematics": 96.0,
+            "Computer Science": 99.0,
+            "Physics": 95.0,
+            "Chemistry": 96.0
+        },
+        "total": 484.0,
+        "percentage": 96.8,
+        "grade": "A+"
+    },
+    {
+        "name": "Ann",
+        "roll_number": "1",
+        "marks": {
+            "English": 80.0,
+            "Mathematics": 86.0,
+            "Computer Science": 98.0,
+            "Physics": 85.0,
+            "Chemistry": 88.0
+        },
+        "total": 437.0,
+        "percentage": 87.4,
+        "grade": "A"
+    },
+    {
+        "name": "Bella",
+        "roll_number": "15",
+        "marks": {
+            "English": 90.0,
+            "Mathematics": 98.0,
+            "Computer Science": 99.0,
+            "Physics": 97.0,
+            "Chemistry": 95.0
+        },
+        "total": 479.0,
+        "percentage": 95.8,
+        "grade": "A+"
+    },
+    {
+        "name": "Hum",
+        "roll_number": "10",
+        "marks": {
+            "English": 70.0,
+            "Mathematics": 67.0,
+            "Computer Science": 88.0,
+            "Physics": 58.0,
+            "Chemistry": 59.0
+        },
+        "total": 342.0,
+        "percentage": 68.4,
+        "grade": "C"
+    }
+]
