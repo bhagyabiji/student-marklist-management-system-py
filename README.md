@@ -23,11 +23,7 @@ A beginner-friendly Python project to manage student details and marks through a
 
 ## Subjects
 
-- English
-- Mathematics
-- Computer Science
-- Physics
-- Chemistry
+- English, Mathematics, Computer Science, Physics, Chemistry
 
 ## How to Run
 
